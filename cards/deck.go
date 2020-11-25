@@ -1,11 +1,11 @@
 package main
 
 import (
-	"io/ioutil"
 	"fmt"
-	"strings"
-	"os"
+	"io/ioutil"
 	"math/rand"
+	"os"
+	"strings"
 )
 
 type deck []string
